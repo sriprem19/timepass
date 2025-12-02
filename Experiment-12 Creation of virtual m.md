@@ -33,6 +33,9 @@ ssh -i command from the aws console
 .Clone the application from github, Write the Dockerfile 
 once connected to instance 
 Step 1:-  install the docker 
+sudo apt update
+sudo apt-get install docker.io 
+sudo apt install git
 install docker ---apt-get update - 
 apt-get install docker.io
 apt-get install nano
